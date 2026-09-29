@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/tradepilot", "destination": "/index.html" },
+    { "source": "/tradepilot/", "destination": "/index.html" }
+  ]
+}
